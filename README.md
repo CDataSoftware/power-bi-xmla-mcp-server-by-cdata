@@ -1,7 +1,7 @@
 # power-bi-xmla-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Power BI XMLA
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Power BI XMLA (beta)](https://www.cdata.com/download/download.aspx?sku=LGZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Power BI XMLA (beta)](https://www.cdata.com/download/download.aspx?sku=LGZK-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Power BI XMLA supported by the [CData JDBC Driver for Power BI XMLA](https://www.cdata.com/drivers/powerbixmla/jdbc).
 
